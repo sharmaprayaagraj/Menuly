@@ -1,0 +1,4 @@
+# Local preview screenshots (dev-only, not part of the site)
+shots/
+.DS_Store
+
